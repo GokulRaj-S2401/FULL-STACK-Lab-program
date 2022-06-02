@@ -141,3 +141,10 @@ label{
 .link:hover{
     background-color: rgb(163, 92, 6);
 }
+input[type="text"]:focus{
+    border: 1px solid deeppink;
+}
+p.error{
+    padding: 2px;
+    color: red;
+}
